@@ -1,0 +1,11 @@
+.animals{
+  width: 30%;
+  height: 30%;  
+}
+.app{
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    background-color: rgb(219, 236, 202)
+}
