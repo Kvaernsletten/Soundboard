@@ -5,6 +5,8 @@
 .app{
     display: flex;
     flex-wrap: wrap;
+    height: 50rem;
+    width: 50rem;
 }
 body{
     background-color: rgb(219, 236, 202)
